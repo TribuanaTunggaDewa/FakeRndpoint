@@ -2,19 +2,33 @@
     "data" : {
         "list" : [
             {
-                "psrsnewsid" : 1,
-                "title": "titile1", 
-                "content" : "content1",
-                "thumbnail" : "urlthumbnail",
-                "publishby" : "nama user yang entry news"
+             "id": 1,
+             "title": "Title",
+             "desc": "sasfsafdsa kdjhfsakjhd wdqdwqdw wdqwqdwqdq wdqdwqdwqd sadadwqdwqd fdafdqwfd hgdhgdhgdh fdgfdhh",
+             "date": "04 Jan 2020",
+             "image": "https://asset-a.grid.id/crop/0x0:0x0/360x240/photo/2020/04/09/663219154.png"
             },
             {
-                "psrsnewsid" : 2,
-                "title": "titile2", 
-                "content" : "content2",
-                "thumbnail" : "urlthumbnail",
-                "publishby" : "nama user yang entry news"
-            }            
+                "id": 2,
+                "title": "Title",
+                "desc": "sasfsafdsa kdjhfsakjhd wdqdwqdw wdqwqdwqdq wdqdwqdwqd sadadwqdwqd fdafdqwfd hgdhgdhgdh fdgfdhh",
+                "date": "04 Jan 2020",
+                "image": "https://asset-a.grid.id/crop/0x0:0x0/360x240/photo/2020/04/09/663219154.png"
+            },
+            {
+                "id": 3,
+                "title": "Title",
+                "desc": "sasfsafdsa kdjhfsakjhd wdqdwqdw wdqwqdwqdq wdqdwqdwqd sadadwqdwqd fdafdqwfd hgdhgdhgdh fdgfdhh",
+                "date": "04 Jan 2020",
+                "image": "https://asset-a.grid.id/crop/0x0:0x0/360x240/photo/2020/04/09/663219154.png"
+            },
+            {
+                "id": 4,
+                "title": "Title",
+                "desc": "sasfsafdsa kdjhfsakjhd wdqdwqdw wdqwqdwqdq wdqdwqdwqd sadadwqdwqd fdafdqwfd hgdhgdhgdh fdgfdhh",
+                "date": "04 Jan 2020",
+                "image": "https://asset-a.grid.id/crop/0x0:0x0/360x240/photo/2020/04/09/663219154.png"
+               }        
         ]
         
     },
