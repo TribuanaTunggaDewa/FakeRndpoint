@@ -15,7 +15,8 @@
                 "thumbnail" : "urlthumbnail",
                 "publishby" : "nama user yang entry news"
             }            
-        ],
-        "status":200
-    }
+        ]
+        
+    },
+    "status":200
 }
