@@ -1,0 +1,19 @@
+{
+    "list" : [
+        {
+            "psrsnewsid" : 1,
+            "title": "titile1", 
+            "content" : "content1",
+            "thumbnail" : "urlthumbnail",
+            "publishby" : "nama user yang entry news"
+        },
+        {
+            "psrsnewsid" : 2,
+            "title": "titile2", 
+            "content" : "content2",
+            "thumbnail" : "urlthumbnail",
+            "publishby" : "nama user yang entry news"
+        }            
+    ],
+    "status":200
+}
